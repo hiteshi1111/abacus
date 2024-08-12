@@ -1,0 +1,206 @@
+[
+    {
+        "fromPath": "/service",
+        "toPath": "/cloud-based-services"
+    },
+    {
+        "fromPath": "/shared-servers",
+        "toPath": "/cloud-computing-franchisee"
+    },
+    {
+        "fromPath": "/contact",
+        "toPath": "/contact-us"
+    },
+    {
+        "fromPath": "/managed-network-services",
+        "toPath": "/service/cloud-managed-network"
+    },
+    {
+        "fromPath": "/service/managed-network",
+        "toPath": "/service/cloud-managed-network"
+    },
+    {
+        "fromPath": "/vps-hosting",
+        "toPath": "/service/vps-hosting"
+    },
+    {
+        "fromPath": "/content-delivery",
+        "toPath": "/service/cloud-content-delivery"
+    },
+    {
+        "fromPath": "/storage-solutions",
+        "toPath": "/service/cloud-storage-solutions"
+    },
+    {
+        "fromPath": "/interconnection",
+        "toPath": "/service/cloud-interconnection"
+    },
+    {
+        "fromPath": "/bare-metal-servers",
+        "toPath": "/service/bare-metal-servers"
+    },
+    {
+        "fromPath": "/rackspace",
+        "toPath": "/service/rackspace"
+    },
+    {
+        "fromPath": "/service/rack-space",
+        "toPath": "/service/rackspace"
+    },
+    {
+        "fromPath": "/public-cloud",
+        "toPath": "/service/public-cloud"
+    },
+    {
+        "fromPath": "/private-cloud",
+        "toPath": "/service/private-cloud"
+    },
+    {
+        "fromPath": "/copy-of-rack-space",
+        "toPath": "/service/rackspace"
+    },
+    {
+        "fromPath": "/services-3",
+        "toPath": "/cloud-based-services"
+    },
+    {
+        "fromPath": "/copy-of-vps-hosting",
+        "toPath": "/service/vps-hosting"
+    },
+    {
+        "fromPath": "/rack-space",
+        "toPath": "/service/rackspace"
+    },
+    {
+        "fromPath": "/about-1-1",
+        "toPath": "/about-us"
+    },
+    {
+        "fromPath": "/services",
+        "toPath": "/cloud-based-services"
+    },
+    {
+        "fromPath": "/pricing",
+        "toPath": "/cloud-computing-franchisee"
+    },
+    {
+        "fromPath": "/terms-and-conditions",
+        "toPath": "/terms-conditions"
+    },
+    {
+        "fromPath": "/static/js/src_pages_site_franchisee_js.chunk.js:14:71",
+        "toPath": "/cloud-computing-franchisee"
+    },
+    {
+        "fromPath": "/services-9",
+        "toPath": "/cloud-based-services"
+    },
+    {
+        "fromPath": "/contact-3",
+        "toPath": "/contact-us"
+    },
+    {
+        "fromPath": "/blog/blog-1",
+        "toPath": "/blog"
+    },
+    {
+        "fromPath": "/blog/blog-4",
+        "toPath": "/blog"
+    },
+    {
+        "fromPath": "/sitemap",
+        "toPath": "/sitemap.html"
+    },
+    {
+        "fromPath": "/data-centers",
+        "toPath": "/data-center"
+    },
+    {
+        "fromPath": "/copy-of-content-delivery",
+        "toPath": "/service/cloud-content-delivery"
+    },
+    {
+        "fromPath": "/sitemap-0.xml",
+        "toPath": "/sitemap.xml"
+    },
+    {
+        "fromPath": "/blog/how-can-we-convert-old-into-an-iptv",
+        "toPath": "/blog"
+    },
+    {
+        "fromPath": "/service/vps",
+        "toPath": "/service/vps-hosting"
+    },
+    {
+        "fromPath": "/static/js/src_pages_site_about-us_js.chunk.js:329:71",
+        "toPath": "/about-us"
+    },
+    {
+        "fromPath": "static/js/bundle.js:86534:33",
+        "toPath": "/"
+    },
+    {
+        "fromPath": "/shipping",
+        "toPath": "/"
+    },
+    {
+        "fromPath": "copy-of-storage-solutions",
+        "toPath": "/service/cloud-storage-solutions/"
+    },
+    {
+        "fromPath": "/copy-of-bare-metal-servers",
+        "toPath": "/service/bare-metal-servers"
+    },
+    {
+        "fromPath": "/copy-of-interconnection",
+        "toPath": "/service/cloud-interconnection"
+    },
+    {
+        "fromPath": "/blogs",
+        "toPath": "/blog"
+    },
+    {
+        "fromPath": "/blog/blog-3",
+        "toPath": "/blog"
+    },
+    {
+        "fromPath": "/blog/undefined",
+        "toPath": "/blog"
+    },
+    {
+        "fromPath": "/general-clean",
+        "toPath": "/"
+    },
+    {
+        "fromPath": "/blog/blog-2",
+        "toPath": "/blog"
+    },
+    {
+        "fromPath": "/blog//blog/secure-public-cloud-computing-solutions",
+        "toPath": "/blog/secure-public-cloud-computing-solutions"
+    },
+    {
+        "fromPath": "/blog//blog/private-cloud-services-enterprises",
+        "toPath": "/blog/private-cloud-services-enterprises"
+    },
+    {
+        "fromPath": "/blog//blog/rackspace-cloud-computing-services",
+        "toPath": "/blog/rackspace-cloud-computing-services"
+    },
+    {
+        "fromPath": "/about-1",
+        "toPath": "/about-us"
+    },
+    {
+        "fromPath": "/static/js/src_pages_site_terms-conditions_js.chunk.js:14:71",
+        "toPath": "/terms-conditions"
+    },
+    {
+        "fromPath": "/static/js/src_pages_site_privacy-policy_js.chunk.js:14:71",
+        "toPath": "/privacy-policy"
+    },
+    {
+        "fromPath": "/static/js/src_pages_site_contact-us_js.chunk.js:116:91",
+        "toPath": "/contact-us"
+    }
+]
